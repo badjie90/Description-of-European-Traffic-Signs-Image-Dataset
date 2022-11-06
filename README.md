@@ -40,7 +40,7 @@ The graphical representation of this dataset shows that each class has an uneven
 |         |                |   20: Dangerous curve right        |   32x32x3
 |         |                |   21: Double curve                 |   32x32x3
 |         |                |   22: Bumpy road                   |   32x32x3
-|         |                |   23: Slippery road                |   32x32x3
+|         |                |   23: Slippery road                |   32x32x3 
 |         |                |   24: Road narrows on the right    |   32x32x3
 |         |                |   25: Road work                    |   32x32x3
 |         |                |   26: Traffic signals              |   32x32x3
