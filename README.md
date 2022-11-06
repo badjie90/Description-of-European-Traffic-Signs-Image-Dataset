@@ -102,7 +102,7 @@ BTSC Database Link https://btsd.ethz.ch/shareddata/
 |         |                |25: Trucks prohibited                                     | 59x89x3 
 |         |                |26: Vehicles wider than indicated prohibited              | 59x89x3 
 |         |                |27: Vehicles higher than indicated prohibited             | 59x89x3 
-|         |                |28: Entry prohibited                                      | 59x89x3 
+|         |                |28: Entry prohibited                                      | 59x89x3  
 |         |                |29: Turning left prohibited                               | 59x89x3   
 |         |                |30: Turning right prohibited                              | 59x89x3 
 |         |                |31: Overtaking prohibited                                 | 59x89x3 
