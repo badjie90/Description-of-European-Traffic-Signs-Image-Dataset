@@ -1,4 +1,4 @@
-# Description-of-Traffic-Sign-Recognition-Benchmark-Datasets
+# Description-of-European-Union-Traffic-Sign-Recognition-Benchmark-Datasets
 
 This repository contains Traffic Sign Recognition and detection image datasets, which are a multi-class image classification benchmark in the domain of advanced driver assistance systems and autonomous driving. However, it would be a privilege if you wanted to add to this README file if you know of any European Union country or countries that use a different traffic sign and its related statistics. Contact me at bbadjie@fc.ul.pt.
 
