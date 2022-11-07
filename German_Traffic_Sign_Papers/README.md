@@ -1,1 +1,1 @@
-## This folder contains academic papers that cited the German Traffic Sign Recognition Benchmark dataset.
+## This folder contains academic papers that cited the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
