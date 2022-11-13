@@ -10,3 +10,6 @@ https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
 
 ### BTSC TEST IMAGE DATASET
 https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
+
+### ITSRB DATASET
+https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes/download?datasetVersionNumber=1
