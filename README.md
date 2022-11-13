@@ -139,3 +139,21 @@ BTSC Database Link https://btsd.ethz.ch/shareddata/
 |         |                |60: End of the priority road                              | 59x89x3 
 |         |                |61: Begin of a priority road                              | 59x89x3 
   
+  
+  
+## Indian Traffic Sign Benchmark (ITSB) Dataset
+We consider it vital to provide this dataset in this README file even though it is beyond the scope of our PhD thesis's data for developing a reliable deep learning image classification model for autonomous vehicles. This will allow us to validate the robustness of our suggested model. ITSB is a multi-class image dataset containing 85 classes. There are in all 7210 images of traffic signs, 4,438 of which are in the training set and 2,772 in the test set.
+
+ITSB Database Link https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes/download?datasetVersionNumber=1
+  
+
+| Dataset | No. of classes |    Dimension        |      Language        |          Cited                |                            Year  |
+| ------- | -------------- | --------------------|----------------------|-------------------------------|----------------------------------| 
+| ITSB [Dataset](https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes/download?datasetVersionNumber=1)    |    85          |     1920x1080x3     |     English          |[Detection and Recognition of Traffic Signs based on RGB to RED Conversion](https://ieeexplore.ieee.org/abstract/document/8282728)                                                                           |   2017 |
+|         |                |                     |                      |[INDIAN TRAFFIC SIGN BOARD RECOGNITION AND DRIVER ALERT SYSTEM USING CNN](https://ieeexplore.ieee.org/abstract/document/9315260)                                                                           | 2020   |
+|         |                |                     |                      |[Indian traffic sign detection and recognition](https://link.springer.com/article/10.1007/s13177-019-00178-1)                                                                    | 2020   |
+|         |                |                     |                      |[Indian traffic sign detection and recognition using deep learning](https://www.sciencedirect.com/science/article/pii/S2046043022000557)                                                             | 2022   |
+|         |                |                     |                      |[VISION  BASED  ADVANCED  DRIVER  ASSISTANCE  SYSTEM  USING  DEEPLEARNING](https://ieeexplore.ieee.org/abstract/document/8944842)                                                                           | 2019   |
+|         |                |                     |                      |
+
+
